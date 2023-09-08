@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">NoteApp</string>
+    <string name="title">Not Başlık</string>
+    <string name="note">Note Detay</string>
+    <string name="add_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+
+</resources>
